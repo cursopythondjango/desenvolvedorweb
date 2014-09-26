@@ -1,12 +1,12 @@
 Grade currícular do curso avançado de desenvolvimento web utilizando python e django
  
  - Python
-   . introdução básica ao python 2.7.+
+   . introdução básica ao python 2.7.++
    . conhecendo a tipagem e os tipos de variáveis
    . lista
    . tupla
-   . dicionario
-   . principais funções dir, append, split, replace, len
+   . dicionário
+   . principais funções dir, append, split, replace, len, zip
 
  - Importância da utilização de repositório e versionamento dos projetos
 
@@ -32,7 +32,7 @@ Grade currícular do curso avançado de desenvolvimento web utilizando python e 
 
  - Desenvolvimento web em django
    . configuração do settings e utilização de local_settings
-   . importancia das varáveis do settings
+   . importância das varáveis do settings
    . orientação a objeto
    . entendendo a estrutura de arquivos e hierarquia do django
    . modelagem de banco utilizando versionamento de migrações com south
@@ -62,7 +62,7 @@ Grade currícular do curso avançado de desenvolvimento web utilizando python e 
    . criacao de filtros no template
    . extendendo arquivos e utilizando includes
    . breve introdução ao html5
-   . semantica html
+   . semântica html
    . jquery
    . animação de conteúdos
    . entendendo a requisição ajax

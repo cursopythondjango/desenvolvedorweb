@@ -1,0 +1,5 @@
+Links úteis
+===========
+
+# built in functions - funções nativas python
+https://docs.python.org/2/library/functions.html

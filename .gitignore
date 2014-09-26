@@ -1,0 +1,42 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Python / uWSGI #
+##################
+*.pyc
+*.pyo*
+.pip-log.txt
+
+# Xcode 4 #
+###########
+*.swp
+*~.nib
+build/
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+xcuserdata
+
+# Middleman #
+#############
+.sass-cache
+
+# Other #
+#########
+*.db
+*.swo
+*.swn
+*.~lock*
+*.*~
+*~
+r
