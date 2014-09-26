@@ -1,0 +1,77 @@
+Grade currícular do curso avançado de desenvolvimento web utilizando python e django
+ 
+ - Python
+   . introdução básica ao python 2.7.+
+   . conhecendo a tipagem e os tipos de variáveis
+   . lista
+   . tupla
+   . dicionario
+   . principais funções dir, append, split, replace, len
+
+ - Importância da utilização de repositório e versionamento dos projetos
+
+ - Introdução e configurações básicas do bitbucket com git
+   . criação de repositórios
+   . definindo permissões com adição uruários e grupos
+   . geração de chave pública ssh para conexão rápida e segura, e inserção no bitbucket
+   . comandos e utilização básica do gerenciador de versões git
+   . configuração do arquivo .gitignore e suas aplicações
+   . apresentação e introdução à utilização da comunidade github
+
+ - Ambientes virtuais para projeto django com virtualenv e virtualenvwrapper
+   . configurar e instalar virtualenvwrapper no mac ou linux
+   . ativando e desativando ambientes virtuais
+   . utilização do comando workon
+   . comandos básicos dos pacotes de instalação do python pip e easy_install
+   . introdução à utilização do arquivo requirements.txt
+   . iniciando projeto django em ambiente virtual
+   . rodar projeto django em servidor virtual no env com runserver
+   . aplicações e debugs com print
+   . aplicações do shell do django em ambiente virtual
+   . fabric
+
+ - Desenvolvimento web em django
+   . configuração do settings e utilização de local_settings
+   . importancia das varáveis do settings
+   . orientação a objeto
+   . entendendo a estrutura de arquivos e hierarquia do django
+   . modelagem de banco utilizando versionamento de migrações com south
+   . apresentação do django 1.7 e o novo sistema de migrações integrado
+   . inserindo initial data para aplicações com migrations ou fixtures
+   . escrevendo os models e iniciando as migrações
+   . entendendo os fields em models e seus atributos
+   . related name para retorno rapido de amarrações por foreignkey ou manytomany
+   . escrevendo admin básico das aplicações para testes ( o admin será tratado mais a fundo a frente )
+   . importancia e utilização de métodos e propriedades de classe para manipulação de retornos
+   . instalando e utilizando a sorl para geração de thumbs do imageField
+   . hierarquia e extensões de models
+   . introdução ao abstract model para reutilização otimizada de código
+   . entendendo proxy model
+   . Introduçaão ao admin
+   . entendendo as principais funcionalidades e tuplas padrão
+   . customizando a validação do admin no método clean
+   . criacao de actions
+   . conhecendo os forms do django
+   . utilização dos forms no admin e front
+   . configuração do arquivo urls
+   . utilização de views genéricas para páginas estáticas
+   . criação de views em FBV pra manipulação de conteúdo e gerenciamento do context
+   . manipulação de querysets e funções básicas
+   . breve introdução ao CBV
+   . built in template
+   . criacao de filtros no template
+   . extendendo arquivos e utilizando includes
+   . breve introdução ao html5
+   . semantica html
+   . jquery
+   . animação de conteúdos
+   . entendendo a requisição ajax
+   . principais funcionalidades em js para comunicação com o backend
+
+
+IMPORTANTE!!
+ - mais temas podem ser inseridos ou removidos da grade currícular de acordo com a curva de aprendizagem ou necessidades práticas.
+ - os alunos deve participar das aulas ativamente utilizando computador pessoal próprio com sistema operacional osx ou linux.
+ - no caso de windows o aluno já deve estar familiarizado com vm's e / ou utilização do vagrant
+ - as aulas serão ministradas na escola bauhaus aos sábados das 10 ao 12h
+ - o valor da hora aula é de 40 reais( fechando em 80 reais o dia ), ficando assim 20 reais a hora para cada um, se conseguirem um terceiro para fazer o curso haverá um desconto para R$15 reais hora aula individual.
