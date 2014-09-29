@@ -1,7 +1,7 @@
 Aula 1 - Python
 ===============
 
-** Visão geral da linguagem e suas principais funções nativas **
+**Visão geral da linguagem e suas principais funções nativas**
 
 Como dito em aula, o python é uma linguagem de programação em alto nível, interpretada/compilada, orientada a objetos,
 funcional, e de tipagem forte.
