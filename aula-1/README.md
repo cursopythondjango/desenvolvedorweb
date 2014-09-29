@@ -1,13 +1,12 @@
 Aula 1 - Python
 ===============
 
-Visão geral da linguagem e suas principais funções nativas
-----------------------------------------------------------
+h3. Visão geral da linguagem e suas principais funções nativas
 
 Como dito em aula, o python é uma linguagem de programação em alto nível, interpretada/compilada, orientada a objetos,
 funcional, e de tipagem forte.
 
-# Exemplos de tipagem
+Exemplos de tipagem
 
 int = números inteiros, ex: 1
 para converter outras variáveis com sucesso para int as mesmas devem ser string ou float
