@@ -6,7 +6,7 @@ Aula 1 - Python
 Como dito em aula, o python é uma linguagem de programação em alto nível, interpretada/compilada, orientada a objetos,
 funcional, e de tipagem forte.
 
-**Exemplos de tipagem
+**Exemplos de tipagem**
 
 int = números inteiros, ex: 1
 para converter outras variáveis com sucesso para int as mesmas devem ser string ou float
@@ -20,30 +20,28 @@ conversão: str(1), str(1.0) = '1', '1.0'
 
 --
 
-# Vimos também variáveis para armazenamento de multiplos conteúdos em python. Ex: listas
+###Vimos também variáveis para armazenamento de multiplos conteúdos em python. Ex: listas
 
-# Tuplas - tuple
+**Tuplas - tuple**
 
 As tuplas são listas únicas e imutáveis em python, depois de definida a tupla não terá mais alterações.
 Ex: a = (1,2,3)
 
-# Listas - list
+**Listas - list**
 
 As listas, como o nome mesmo diz, são listas como as tuplas mas podem variar de acordo com o algorítmo implementado
 Ex: a = [1,2,3]
 
-# Dicionário - dict
+**Dicionário - dict**
 
 São listas para armazenamento associativo como chave e valor, tem o formato parecido com json
 Ex: a = {'fruta':'maça','preco':1,'qualidade':'boa'}
 
 --
 
-Vimos também em aula que todos as variáveis e elementos do python são objetos e podem ser vistos com a função dir()
--------------------------------------------------------------------------------------------------------------------
+**Vimos também em aula que todos as variáveis e elementos do python são objetos e podem ser vistos com a função dir()**
 
-Exemplos vistos em aula
------------------------
+###Exemplos vistos em aula
 
 ```python
 numeros = [1,2,3,4,5]
