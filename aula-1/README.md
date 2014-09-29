@@ -20,7 +20,7 @@ conversão: str(1), str(1.0) = '1', '1.0'
 
 --
 
-###Vimos também variáveis para armazenamento de multiplos conteúdos em python. Ex: listas
+###Variáveis para armazenamento de multiplos conteúdos em python. Ex: listas
 
 **Tuplas - tuple**
 
@@ -39,7 +39,7 @@ Ex: a = {'fruta':'maça','preco':1,'qualidade':'boa'}
 
 --
 
-**Vimos também em aula que todos as variáveis e elementos do python são objetos e podem ser vistos com a função dir()**
+**Vimos também em aula, que todos as variáveis e elementos do python são objetos e podem ser vistos com a função dir()**
 
 ###Exemplos vistos em aula
 
