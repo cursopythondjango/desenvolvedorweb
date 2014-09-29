@@ -110,5 +110,6 @@ Qualquer dúvida, insiram no arquivo duvidas.txt e trataremos na próxima aula o
 Bibliografia
 ------------
 
-(http://pt.wikipedia.org/wiki/Python)
-(https://docs.python.org/2/library/functions.html)
+http://pt.wikipedia.org/wiki/Python
+
+https://docs.python.org/2/library/functions.html
